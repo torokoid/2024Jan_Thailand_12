@@ -133,13 +133,18 @@ p.note { display: none; }
 <h2><span class="yellow">早起きして市内の朝焼けなど見てみました</span></h2>
 <a href="20240113_001.JPG" data-lightbox="abc"><img src="20240113_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_002.JPG" data-lightbox="abc"><img src="20240113_002.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">バンコク市内の雑踏もしばらく見納め</span></h2>
 <a href="20240113_003.JPG" data-lightbox="abc"><img src="20240113_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_004.JPG" data-lightbox="abc"><img src="20240113_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_005.JPG" data-lightbox="abc"><img src="20240113_005.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">Honda車は結構目にします</span></h2>
 <a href="20240113_006.JPG" data-lightbox="abc"><img src="20240113_006.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">スワンナプーム空港に到着</span></h2>
 <a href="20240113_007.JPG" data-lightbox="abc"><img src="20240113_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_008.JPG" data-lightbox="abc"><img src="20240113_008.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">赤鬼、青鬼のペアは一組ではありません</span></h2>
 <a href="20240113_009.JPG" data-lightbox="abc"><img src="20240113_009.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">大蛇で綱引き、人間VS鬼軍団</span></h2>
 <a href="20240113_010.JPG" data-lightbox="abc"><img src="20240113_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_011.JPG" data-lightbox="abc"><img src="20240113_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_012.JPG" data-lightbox="abc"><img src="20240113_012.JPG" alt="サンプル画像" width="900" /></a>
@@ -151,10 +156,12 @@ p.note { display: none; }
 <a href="20240113_018.JPG" data-lightbox="abc"><img src="20240113_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_019.JPG" data-lightbox="abc"><img src="20240113_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_020.JPG" data-lightbox="abc"><img src="20240113_020.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">空港トイレのエアータオルは日本のMITSUBISHIでした</span></h2>
 <a href="20240113_021.JPG" data-lightbox="abc"><img src="20240113_021.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">20:00成田着、帰りの飛行機はこれでした</span></h2>
 <a href="20240113_022.JPG" data-lightbox="abc"><img src="20240113_022.JPG" alt="サンプル画像" width="900" /></a>
 <br>
-<h2><span class="yellow">13日はいよいよバンコクから成田向けフライト<br>帰国となります</span></h2>
+<h2><span class="yellow">タイに２週間いると完全に気候順化しますね<br>日本の寒さがこたえます</span></h2>
 
 
 
