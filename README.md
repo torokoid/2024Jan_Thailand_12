@@ -174,7 +174,9 @@ p.note { display: none; }
 <br>
 <h2><span class="yellow">トラックの荷台乗車も頻発中</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QaUvun0VsG8?si=kXjylcS9d7_9BlBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<br>
+<h2><span class="yellow">メコン川を行き来する物流船、浸水ギリギリまで荷物積みます</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r3foq-_UGQI?si=0ccjIpgwLyOg4ma_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <h2><span class="yellow">タイに２週間いると完全に気候順化しますね<br>日本の寒さがこたえます</span></h2>
