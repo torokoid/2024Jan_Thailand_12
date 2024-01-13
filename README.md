@@ -142,19 +142,25 @@ p.note { display: none; }
 <h2><span class="yellow">スワンナプーム空港に到着</span></h2>
 <a href="20240113_007.JPG" data-lightbox="abc"><img src="20240113_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_008.JPG" data-lightbox="abc"><img src="20240113_008.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">赤鬼、青鬼のペアは一組ではありません</span></h2>
+<h2><span class="yellow">ロビーで目立つ、赤鬼、青鬼</span></h2>
 <a href="20240113_009.JPG" data-lightbox="abc"><img src="20240113_009.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">大蛇で綱引き、人間VS鬼軍団</span></h2>
+<h2><span class="yellow">赤鬼、青鬼のペアは、一組ではありません</span></h2>
 <a href="20240113_010.JPG" data-lightbox="abc"><img src="20240113_010.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">大蛇で綱引き、人間VS鬼軍団</span></h2>
 <a href="20240113_011.JPG" data-lightbox="abc"><img src="20240113_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_012.JPG" data-lightbox="abc"><img src="20240113_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_013.JPG" data-lightbox="abc"><img src="20240113_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_014.JPG" data-lightbox="abc"><img src="20240113_014.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">出発ゲート、S100番台は空港内電車で移動します</span></h2>
 <a href="20240113_015.JPG" data-lightbox="abc"><img src="20240113_015.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">運転手も車掌も居ませんね</span></h2>
 <a href="20240113_016.JPG" data-lightbox="abc"><img src="20240113_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240113_017.JPG" data-lightbox="abc"><img src="20240113_017.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">こんな車両でした</span></h2>
 <a href="20240113_018.JPG" data-lightbox="abc"><img src="20240113_018.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お店は真新しくて綺麗</span></h2>
 <a href="20240113_019.JPG" data-lightbox="abc"><img src="20240113_019.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">象さんのオブジェもありました</span></h2>
 <a href="20240113_020.JPG" data-lightbox="abc"><img src="20240113_020.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">空港トイレのエアータオルは日本のMITSUBISHIでした</span></h2>
 <a href="20240113_021.JPG" data-lightbox="abc"><img src="20240113_021.JPG" alt="サンプル画像" width="900" /></a>
