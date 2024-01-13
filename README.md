@@ -167,6 +167,16 @@ p.note { display: none; }
 <h2><span class="yellow">20:00成田着、帰りの飛行機はこれでした</span></h2>
 <a href="20240113_022.JPG" data-lightbox="abc"><img src="20240113_022.JPG" alt="サンプル画像" width="900" /></a>
 <br>
+<h2><span class="yellow">タイで気になった動画集</span></h2>
+<br>
+<h2><span class="yellow">初めてみるとギョッとしますが、バイクの逆走は合法らしい</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bsZ-Mujp-zc?si=hC5A-_Yx4DN6qV6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<h2><span class="yellow">トラックの荷台乗車も頻発中</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QaUvun0VsG8?si=kXjylcS9d7_9BlBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<br>
 <h2><span class="yellow">タイに２週間いると完全に気候順化しますね<br>日本の寒さがこたえます</span></h2>
 
 
