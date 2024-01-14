@@ -162,7 +162,7 @@ p.note { display: none; }
 <a href="20240113_019.JPG" data-lightbox="abc"><img src="20240113_019.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">象さんのオブジェもありました</span></h2>
 <a href="20240113_020.JPG" data-lightbox="abc"><img src="20240113_020.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">空港トイレのエアータオルは日本のMITSUBISHIでした</span></h2>
+<h2><span class="yellow">空港トイレのエアータオルは日本のMITSUBISHI、日本製品で良かった！</span></h2>
 <a href="20240113_021.JPG" data-lightbox="abc"><img src="20240113_021.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">20:00成田着、帰りの飛行機はこれでした</span></h2>
 <a href="20240113_022.JPG" data-lightbox="abc"><img src="20240113_022.JPG" alt="サンプル画像" width="900" /></a>
@@ -177,9 +177,14 @@ p.note { display: none; }
 <br>
 <h2><span class="yellow">メコン川を行き来する物流船、浸水ギリギリまで荷物積みます</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r3foq-_UGQI?si=0ccjIpgwLyOg4ma_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <br>
-<h2><span class="yellow">タイに２週間いると完全に気候順化しますね<br>日本の寒さがこたえます</span></h2>
+<h2><span class="yellow">チェンライのひとつ北、メーチャンの市場でチャリティーコンサート１</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zfob4O9M3VY?si=TRjAOBs835nW_8Sb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<h2><span class="yellow">チェンライのひとつ北、メーチャンの市場でチャリティーコンサート２</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AvTJA8Yl850?si=uNNOVOmyAHmxeumG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<h2><span class="yellow">タイに２週間いると完全に気候順化しますね、日本の寒さがこたえます<br>社会復帰に時間がかかりそうだと思いきや<br>成田から宇都宮までの運転で、完全に日本を思い出しました</span></h2>
 
 
 
