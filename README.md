@@ -187,7 +187,7 @@ p.note { display: none; }
 <br>
 <h2><span class="yellow">タイに２週間いると完全に気候順化しますね、日本の寒さがこたえます<br>社会復帰に時間がかかりそうだと思いきや<br>成田から宇都宮までの運転で、完全に日本を思い出しました</span></h2>
 
-<a href="mailto:torokoid@gmail.com">各種お問い合わせは、ここをクリックしてください</a>
+<h2><span class="yellow"><a href="mailto:torokoid@gmail.com">各種お問い合わせは、ここをクリックしてください</a></span></h2>
 
 <!--
 <br><br><p>以下写真集！</p>
